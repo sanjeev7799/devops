@@ -1,3 +1,4 @@
 test commit
 
 test branch commit
+master 3rd line
